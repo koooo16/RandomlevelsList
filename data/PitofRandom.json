@@ -1,18 +1,13 @@
 {
-    "id": 131477159,
-    "name": "Pit of Random",
-    "author": "OxygenConsumer",
+    "id": 131528651,
+    "name": "RandomBeat",
+    "author": "Inflixctio",
     "creators": [],
-    "verifier": "OxygenConsumer",
+    "verifier": "Inflixctio",
     "verification": "https://www.youtube.com/watch?v=Z0Cb37_KyE8",
     "percentToQualify": "100",
     "password": "Free Copyable",
     "records": [
         {
-            "user": "OxygenConsumer",
-            "link": "https://www.youtube.com/watch?v=Z0Cb37_KyE8",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+
 }
